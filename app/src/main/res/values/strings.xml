@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sliide Technical Task</string>
+
+    <string name="delete_user">Delete User</string>
+    <string name="delete_user_message">Are you sure you want to delete this user?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="status">Status</string>
+    <string name="add_user">Add new user</string>
+    <string name="select_gender">select gender:</string>
+    <string name="select_status">select status:</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="item_deleted">User item deleted successfully</string>
+    <string name="item_added">User added deleted successfully</string>
+    <string name="correct_email">Please enter correct email address</string>
+    <string name="empty_name">User name can not be empty</string>
+
+    <string-array name="gender">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>active</item>
+        <item>inactive</item>
+    </string-array>
+</resources>
